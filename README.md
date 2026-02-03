@@ -1,1 +1,1 @@
-# Cybersecurity-internship-Task-9
+In this task, I used Nmap to scan a local network and identify active devices, open ports, running services, and possible security issues. This hands-on activity helped me understand how exposed or misconfigured services can create security risks. Overall, the task improved my practical knowledge of network scanning and gave me a clearer understanding of how network vulnerabilities are identified in real-world environments.
